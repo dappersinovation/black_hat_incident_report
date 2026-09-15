@@ -1,8 +1,8 @@
 #linux commands
 
-git clone https://github.com/dappersinovation/blac_khat_campus_team_government_public_incident_report_system.git
+git clone https://github.com/dappersinovation/black_hat_incident_report.git
 
-cd blac_khat_campus_team_government_public_incident_report_system
+cd black_hat_incident_report
 
 python3 -m venv venv
 
@@ -17,9 +17,9 @@ streamlit run app.py
 
 #window powershell 
 
-git clone https://github.com/dappersinovation/blac_khat_campus_team_government_public_incident_report_system.git
+git clone https://github.com/dappersinovation/black_hat_incident_report.git
 
-cd blac_khat_campus_team_government_public_incident_report_system
+cd black_hat_incident_report
 
 python -m venv venv
 
