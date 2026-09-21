@@ -1,4 +1,4 @@
-#linux commands
+#linux terminal commands
 
 git clone https://github.com/dappersinovation/black_hat_incident_report.git
 
@@ -15,7 +15,7 @@ python dataset.py
 streamlit run app.py
 
 
-#window powershell 
+#window powershell commands
 
 git clone https://github.com/dappersinovation/black_hat_incident_report.git
 
